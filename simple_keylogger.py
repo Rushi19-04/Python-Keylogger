@@ -35,4 +35,4 @@ keyboard.on_press(on_key_event)
 
 # Wait indefinitely for keyboard events
 print("Keylogger is running... Press ESC+x to exit.")
-keyboard.wait('esc+x')  # Wait until the ESC key is pressed
+keyboard.wait('esc+x')  # Wait until the ESC+x key is pressed
