@@ -25,12 +25,12 @@ pip install keyboard
 Clone the repository or download the script directly to your system.
 
 ```bash
-git clone https://github.com/yourusername/simple-keylogger.git
+git clone https://github.com/Rushi19-04/PRODIGY_CS_04.git
 ```
 
 ### Step 3: Update File Path
 
-In the script, update the `file_path` variable to specify the location where you want to save the key logs. By default, the logs will be saved in `C:\Users\rushi\OneDrive\Desktop\Prodigy\Simple_Keylogger\output.txt`. You can change the path to a location of your choice.
+In the script, update the `file_path` variable to specify the location where you want to save the key logs. You can change the path to a location of your choice.
 
 ```python
 file_path = r"C:\path\to\your\desired\location\output.txt"
@@ -39,33 +39,23 @@ file_path = r"C:\path\to\your\desired\location\output.txt"
 ## Usage
 
 ### Step 1: Run the Script
-
 Run the Python script with the following command:
 
 ```bash
-python keylogger.py
+python simple_keylogger.py
 ```
 
 ### Step 2: Key Logging
-
 While the program is running, it will capture all keystrokes. For special keys, such as the **Enter**, **Space**, **Shift**, or **Ctrl**, the program will log them as `[ENTER]`, `[SPACE]`, and `[SHIFT]` respectively.
 
 ### Step 3: Stop the Keylogger
-
 To stop the keylogger, press the combination `ESC + x`. This will safely exit the program and stop logging keys.
 
 ## Notes
-
 - **Stealth Mode**: The script hides the console window on Windows to ensure that the program operates silently in the background. If you don't want this feature, you can comment out or remove the lines involving `ctypes.windll`.
-  
-- **File Path**: Make sure the file path where the keylogs are being saved is correct and accessible. You can specify any directory path where you have write permissions.
-
+  - **File Path**: Make sure the file path where the keylogs are being saved is correct and accessible. You can specify any directory path where you have write permissions.
 - **Use Responsibly**: This keylogger is meant for educational purposes only. Use it responsibly and ensure that you have proper consent from users if running this software in any environment.
 
 ## License
-
 This project is licensed under the MIT License.
 
----
-
-Let me know if you'd like any modifications or additional information included in the README!
