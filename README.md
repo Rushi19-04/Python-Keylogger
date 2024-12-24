@@ -53,7 +53,7 @@ To stop the keylogger, press the combination `ESC + x`. This will safely exit th
 
 ## Notes
 - **Stealth Mode**: The script hides the console window on Windows to ensure that the program operates silently in the background. If you don't want this feature, you can comment out or remove the lines involving `ctypes.windll`.
-  - **File Path**: Make sure the file path where the keylogs are being saved is correct and accessible. You can specify any directory path where you have write permissions.
+- **File Path**: Make sure the file path where the keylogs are being saved is correct and accessible. You can specify any directory path where you have write permissions.
 - **Use Responsibly**: This keylogger is meant for educational purposes only. Use it responsibly and ensure that you have proper consent from users if running this software in any environment.
 
 ## License
