@@ -61,6 +61,6 @@ To stop the keylogger, press the combination `ESC + x`. This will safely exit th
 - **Use Responsibly**: This keylogger is meant for educational purposes only. Use it responsibly and ensure that you have proper consent from users if running this software in any environment.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](License).
 
 
