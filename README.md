@@ -3,7 +3,7 @@ This is a simple keylogger program that records all keystrokes and stores them i
 
 ## 📸 Screenshot
 
-![Terminal](Keylogger.png)
+![Terminal](keylogger.png)
 
 ## Features
 - **Key Logging**: Captures keystrokes including normal keys, special keys (e.g., Shift, Ctrl), and control keys like Enter and Space.
