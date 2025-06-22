@@ -25,7 +25,7 @@ pip install keyboard
 Clone the repository or download the script directly to your system.
 
 ```bash
-git clone https://github.com/Rushi19-04/PRODIGY_CS_04.git
+git clone https://github.com/Rushi19-04/Python-Keylogger.git
 ```
 
 ### Step 3: Update File Path
