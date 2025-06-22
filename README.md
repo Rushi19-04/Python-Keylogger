@@ -1,6 +1,10 @@
 # Simple Keylogger
 This is a simple keylogger program that records all keystrokes and stores them in a file. It uses the Python `keyboard` library to capture keyboard events and logs them to a specified file. The keylogger operates in the background, capturing both normal and special keys.
 
+## 📸 Screenshot
+
+![Terminal](Keylogger.png)
+
 ## Features
 - **Key Logging**: Captures keystrokes including normal keys, special keys (e.g., Shift, Ctrl), and control keys like Enter and Space.
 - **Exit Condition**: The program can be stopped by pressing the combination `ESC + x`.
